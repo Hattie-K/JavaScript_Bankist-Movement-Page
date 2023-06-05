@@ -1,4 +1,5 @@
 // BANKIST APP
+// This code was written by BM, during the course instruction of Jonas Schmedtmann.
 
 // Data
 const account1 = {

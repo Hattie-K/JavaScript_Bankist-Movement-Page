@@ -6,3 +6,5 @@
 🔐 Login Information 
 - user : js / pw: 1111
 - user : jd / pw: 2222
+#
+- If you would like to explore another practice regarding Bankist app, please refer to the folder named 'Bankist_Homepage'.

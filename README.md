@@ -1,2 +1,2 @@
 # [Bankist] Movement Page
-This code was written by BM, during the course of Jonas Schmedtmann.
+The code was written by BM, during the course of Jonas Schmedtmann.
